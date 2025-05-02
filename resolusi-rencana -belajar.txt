@@ -2,7 +2,9 @@ rencana belajar daniel
 
 -belajar javascript
 *belajar framework
--belajar database
+  *angular
+  *react
 -bahaasa inggris-
 -belajar php
+  *laravel
 -belajar pyton
