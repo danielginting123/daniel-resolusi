@@ -3,6 +3,7 @@ rencana belajar daniel
 -belajar javascript
 *belajar framework
   *vie
+ * react
 -belajar database
 -bahaasa inggris-
 -belajar php
